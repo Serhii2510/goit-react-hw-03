@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  align-items: center;
+  padding: 40px;
+}
+
+.title {
+  font-size: 48px;
+}
+
+.notification {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #1e1b1b;
+  border-radius: 20px;
+  background-color: #fafafa;
+  font-size: 20px;
+  color: #ca0d0d;
+  text-align: center;
+}
